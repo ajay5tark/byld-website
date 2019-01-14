@@ -192,6 +192,12 @@ members:
 
 # 2014-present 
 
+- email: ajay18215
+  name: Ajay Prakash
+  github: ajay5tark
+  skills: Python C++ HTML CSS
+  
+  
 - email: abhishek16005
   name: abshishek16005
   github: ovshake
