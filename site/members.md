@@ -238,6 +238,11 @@ members:
   name: Daksh
   github: Daksh
   skills: C, Python
+  
+- email: ajay18215
+  name: Ajay Prakash
+  github: ajay5tark
+  skills: Python,HTML,CPP,CSS
 
 - email: deepak16030
   name: Deepak Magesh Srivatsav
