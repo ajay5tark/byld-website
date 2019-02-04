@@ -453,5 +453,9 @@ members:
   name: Aniket Pradhan
   github: Aniket-Pradhan
   skills: Android (Java), Python, Web Dev, React Native
-
+  
+- email: ajay18215
+  name: Ajay Prakash
+  github: ajay5tark
+  skills: Python,HTML,CSS,C++
 ---
